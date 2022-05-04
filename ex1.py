@@ -1,2 +1,2 @@
 i = 0
-for 
+for i in range(0,10)
